@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Ivan, a full-time frontend developer 👨‍💻 working at Datawiz.io since 2021 🚀</div>  
+### <div align="center">I'm Ivan, a full-time software engineer 👨‍💻 worked at Datawiz.io since 2021. Currently working at Redocly since 2023🚀</div>  
 
 <br/>
 
