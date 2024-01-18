@@ -8,7 +8,7 @@
 ### I'm Ivan, a full-time software engineer 👨‍💻
 **Experience:**
 * Datawiz.io *(2021 - 2023)*
-* Redocly since *(2023)*
+* Redocly *(2023)*
   
 **Education:** Master of Computer Science 👨‍🎓
 
