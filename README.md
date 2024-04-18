@@ -34,6 +34,6 @@
 ---
 
 <div align="center">
-<a href="https://u8views.com/github/HobMartin"><img src="https://u8views.com/api/v1/github/profiles/39236703/views/day-week-month-total-count.svg"></a>
+<img src="https://profile-counter.glitch.me/HobMartin/count.svg">  
 </div>
 
